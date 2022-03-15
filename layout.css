@@ -1,0 +1,147 @@
+
+
+*{
+    margin: 0;
+    padding:0;
+}
+
+.main{
+    height: 1000px;
+    width: 1200px;
+    background-color: aquamarine;
+    margin:auto
+}
+.header{
+    width: 1200px;
+    height: 150px;
+    background-color: teal;
+
+}
+  .branding{
+    width: 400px;
+    height: 150px;
+    background-color: blueviolet;
+    float: left;
+}
+.branding img{ width: 400px;
+    height: 150px;
+
+}
+.socialmedia{
+ width: 800px;
+ height: 100px;
+ background-color: bisque;
+ float: left;
+
+}
+.fb{
+    height: 100px;
+    width: 200px;
+    float: left;
+}
+.insta{height: 100px;
+    width: 200px;
+    float: left;
+
+}
+.lnk {height: 100px;
+    width: 200px;
+    float: left;
+
+}
+.google{ height: 100px;
+    width: 200px;
+    float: left;
+
+}
+.socialmedia img{ height: 100px;
+    width: 200px;}
+
+
+
+.menu{
+    height:50px ;
+ width: 800px;
+ background-color: rgb(32, 211, 32);
+float: left;
+
+}
+.menu ul li{
+    float: left;
+    list-style: none;
+    display: block;
+    background-color:yellow;
+    height: 40px;
+    width: 190px;
+    margin-left: 10px;
+    margin-top: 5px;
+    text-align: center;
+    line-height: 40px;
+
+}
+.menu ul li:hover{ background-color: orange;
+
+}
+
+
+.menu ul li a {
+    text-decoration: none;
+   color: brown;
+}
+
+.container{
+    width: 1200px;
+ height: 800px;
+ background-color: tomato;
+
+}
+.gallery{
+ width: 1200px;
+ height: 400px;
+ background-color: springgreen;
+overflow: scroll;
+}
+.gallery img{
+    height: 400px;
+    width: 1200px;
+}
+
+.courses{
+    width: 1200px;
+    height: 400px;
+    background-color: chocolate;
+}
+ .bootcam{ 
+     height: 400px;
+    width: 300px;
+    background-color: wheat;
+    float: left;
+ }
+ .cloudcomputing{
+    height: 400px;
+    width: 300px;
+     background-color: violet;
+     float: left;
+ }
+ .datascience{
+    height: 400px;
+    width: 300px;
+   background-color: cornflowerblue;
+   float: left;
+ }
+.systemdesign{
+    height: 400px;
+    width: 300px;
+    background-color: tomato;
+    float: left;
+}
+.courses img{
+    height: 400px;
+    width: 300px;
+    
+}
+.footer{
+    width: 1200px;
+    height: 50px;
+    background-color: yellow;
+}
